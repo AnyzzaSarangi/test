@@ -7,6 +7,7 @@
 > Do not add license while merging two repositories.
 
 # Steps:
-## - new repository-->>github
-## - code-->>copy the repo 
-## - git clone
+## 1. new repository-->>github
+## 2. code-->>copy the repo 
+## 3. git clone
+## 4. git pull
