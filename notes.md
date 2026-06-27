@@ -5,3 +5,8 @@
 - solution for merging local and remote repositories : 
 > git branch --set-upstream-to=origin/<remote-branch-name>
 > Do not add license while merging two repositories.
+
+# Steps:
+## - new repository-->>github
+## - code-->>copy the repo 
+## - git clone
