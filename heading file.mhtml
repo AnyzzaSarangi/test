@@ -1,0 +1,34 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: file:///D:/Core_Java_Project/frontend_project/index.html
+Subject: Document
+Date: Sun, 28 Jun 2026 08:12:38 +0530
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--Xl9V07xNbrzosPcv7XIq7HJI4w6ZePLU4Sn9qk5vNU----"
+
+
+------MultipartBoundary--Xl9V07xNbrzosPcv7XIq7HJI4w6ZePLU4Sn9qk5vNU----
+Content-Type: text/html
+Content-ID: <frame-02274AC800E1242AC257315D52D9E0E2@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///D:/Core_Java_Project/frontend_project/index.html
+
+<!DOCTYPE html><html lang=3D"en"><!--html 5 --><head><meta http-equiv=3D"Co=
+ntent-Type" content=3D"text/html; charset=3DUTF-8">
+   =20
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1.0">
+    <title>Document</title>
+</head>                  <!--<sys> =3D tag-->=20
+<body>
+    <h1>Heading 1</h1>
+    <h2>Heading 2</h2>
+    <h3>Heading 3</h3>
+    <h4>Heading 4</h4>
+    <h5>Heading 5</h5>
+    <h6>Heading 6</h6>
+    <p>This is a Paragraph </p>
+
+</body></html>
+------MultipartBoundary--Xl9V07xNbrzosPcv7XIq7HJI4w6ZePLU4Sn9qk5vNU------
