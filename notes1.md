@@ -72,6 +72,36 @@
 ![HTML Paragraph](image-1.png)
 ---
 ## Favicon Generator
+>Favicon Generator : used to make logos,icons that could be displayed in website.
+## Code: 
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anisha Sarangi</title>
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" href="favicon/favicon-32x32.png">
+</head>
+<body>
+    <h1>Heading 1</h1>
+    <h2>Heading 2</h2>
+    <h3>Heading 3</h3>
+    <h4>Heading 4</h4>
+    <h5>Heading 5</h5>
+    <h6>Heading 6</h6>
+    ***<img src="favicon/favicon-32x32.png" alt="Website Logo">***
+    <p>This is a Paragraph.</p>
+    <p>My name is Anisha Sarangi. I am a final-year B.Tech CSE student from KIIT.</p>
+</body>
+</html>
+```
+- `***<img src="favicon/favicon-32x32.png" alt="Website Logo">***` 
+- This command displays the icon as shown below
+- ![Favicon Generator](favicon/favicon-32x32.png)
+
 
 
 
